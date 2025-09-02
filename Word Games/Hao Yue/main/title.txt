@@ -1,0 +1,2 @@
+GAME_TITLE = "Hao Yue"
+GAME_AUTHOR = "XianYin69"
