@@ -1,0 +1,16 @@
+Structure:
+Game File/
+|-Main.sh
+|-config/
+| |-Value.txt
+| |-Init.sh
+| |-lang/
+| ||_lang_init.sh
+| |_Rule/
+|  |_Rule.sh
+|-Main/
+||-Story/
+|||_Story.txt
+||- Sound/
+|||_Sound.mp3
+|_Illustation.txt

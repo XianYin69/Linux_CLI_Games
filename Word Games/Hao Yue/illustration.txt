@@ -1,0 +1,5 @@
+Game Name: Hao Yue
+Description: It is a word game that about love between a young man and woman(temp.).
+Author: XianYin69
+Data: 9-2-2025
+System Reqire: 1.A command terminal(Supported Chinese Characters)
