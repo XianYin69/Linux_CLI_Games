@@ -1,5 +1,5 @@
 #!/bin/bash
-local Status
+Status
 #print character with color
 show_word() {
     echo -e "/e[{$1}m{$2}:${$3}/e[{$4}m" #$1 = prefix, $2 = color, $3 = character, $4 = suffix
