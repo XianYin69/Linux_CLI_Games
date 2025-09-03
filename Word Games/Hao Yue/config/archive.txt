@@ -1,0 +1,2 @@
+PATH=""
+LASTED_DATE=""

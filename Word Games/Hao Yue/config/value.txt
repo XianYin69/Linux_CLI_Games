@@ -1,3 +1,5 @@
 game_class_value=(
     
 )
+
+GAME_ARCHIVE=""
